@@ -5,8 +5,7 @@ NeuroLearn is an educational iOS app designed to help users explore neuroscience
 ## Features
 Purpose: To make studying and learning about neuroscience and neurodegenerative diseases fun, accessible and easy
 Target Audience: High school or college students. Or anyone with an interest in the field!
-Features: 3 educational Mini games to make memorization fun, multiple study guides on neurodegenerative diseases. 
-Also includes settings with a mode switch and accesibility features.
+Features: Educational Mini games to make memorization fun, multiple study guides on neurodegenerative diseases.The app also includes settings with a mode switch and accesibility features.
 
 ## Built With
 
